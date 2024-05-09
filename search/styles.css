@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(101, 136, 101); 
+    text-align: center;
+    background-image: url("spring.jpeg");
+    background-size: cover;
+    margin: 100px;
+}
+input {
+    background-color: rgb(222, 225, 231);
+    text-align: center;
+}
+a.test:hover {
+    color:red;
+}
+a:visited{
+    color: green;
+}
+img:hover{
+    cursor: pointer;
+    border: 1px solid black
+}
